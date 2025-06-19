@@ -1,0 +1,46 @@
+.fetch-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 25px;
+  margin: 20px;
+  max-width: 450px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  margin-bottom: 16px;
+  text-align: center;
+  color: #333;
+}
+
+.input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.button {
+  width: 100%;
+  background-color: #007bff;
+  color: #fff;
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.output {
+  margin-top: 20px;
+  background: #f8f9fa;
+  padding: 15px;
+  border-radius: 6px;
+  font-family: monospace;
+}
